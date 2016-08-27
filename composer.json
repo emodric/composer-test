@@ -1,0 +1,13 @@
+{
+    "name": "emodric/composer-test",
+    "require": {
+        "symfony/symfony": "^3.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": "true",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
